@@ -5,7 +5,6 @@
     <classes>
       
       <class name="com.jenkins.JenkinsDemo.Demo_For_Jenkins"/>
-      
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
